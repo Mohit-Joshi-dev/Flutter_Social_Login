@@ -2,7 +2,7 @@ name: social_login
 description: 'A Flutter Package for social login like Google and Facebook.'
 version: 0.0.1
 author: 'Mohit Joshi'
-homepage: 'github'
+homepage: 'https://github.com/Mohit-Joshi-dev/SocialLogin'
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -24,14 +24,14 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter.
 flutter: 
-    plugin:
-      platforms:
-        android:
-          package: com.social_login.package
-          pluginClass: SocialLogin
-  # plugin:
-  #   androidPackage: com.roughike.facebooklogin.facebooklogin
-  #   pluginClass: FacebookLoginPlugin
+  plugin:
+    androidPackage: com.roughike.facebooklogin.facebooklogin
+    pluginClass: FacebookLoginPlugin
+    # plugin:
+    #   platforms:
+    #     android:
+    #       package: com.social_login.package
+    #       pluginClass: SocialLogin
 
 # To add assets to your package, add an assets section, like this:
 # assets:
