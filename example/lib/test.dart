@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:social_login/social_login.dart';
+import 'package:flutter_social_login/flutter_social_login.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:http/http.dart' as http;

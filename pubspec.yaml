@@ -1,7 +1,6 @@
-name: social_login
+name: flutter_social_login
 description: 'A Flutter Package for social login like Google and Facebook.'
 version: 0.0.1
-author: 'Mohit Joshi'
 homepage: 'https://github.com/Mohit-Joshi-dev/SocialLogin'
 
 environment:
