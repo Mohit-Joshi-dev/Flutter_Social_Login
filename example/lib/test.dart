@@ -16,7 +16,6 @@ class LoginPage extends HookWidget {
       print(message);
     }
 
-    ;
     final _login = () async {
       final FacebookLoginResult result = await facebookSignIn.logIn(['email']);
 

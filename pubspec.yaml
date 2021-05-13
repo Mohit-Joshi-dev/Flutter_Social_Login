@@ -23,10 +23,10 @@ dev_dependencies:
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter.
-flutter: 
-  plugin:
-    androidPackage: com.roughike.facebooklogin.facebooklogin
-    pluginClass: FacebookLoginPlugin
+flutter: null
+  # plugin:
+  #   androidPackage: com.roughike.facebooklogin.facebooklogin
+  #   pluginClass: FacebookLoginPlugin
     # plugin:
     #   platforms:
     #     android:
